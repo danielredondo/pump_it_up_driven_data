@@ -1,4 +1,5 @@
-# pump_it_up_driven_data
+# DrivenData competition Pump it up - in R using only SVM
+
 Código en R de mi participación en la competición de Driven Data "Pump it Up: Data Mining the Water Table", para la asignatura de Minería de Datos: Preprocesamiento y Clasificación, usando sólo SVM (Support Vector Machines)
 
 ```
