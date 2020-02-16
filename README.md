@@ -1,6 +1,6 @@
 # DrivenData competition Pump it up - in R using only SVM
 
-Código en R de mi participación en la competición de Driven Data "Pump it Up: Data Mining the Water Table", para la asignatura de Minería de Datos: Preprocesamiento y Clasificación, usando sólo SVM (Support Vector Machines)
+Código en R de mi participación en la competición de Driven Data "Pump it Up: Data Mining the Water Table", para la asignatura de Minería de Datos: Preprocesamiento y Clasificación, usando sólo SVM (Support Vector Machines).
 
 ```
 > sessionInfo()
@@ -19,8 +19,9 @@ attached base packages:
 [1] grid      stats     graphics  grDevices utils     datasets  methods   base     
 
 other attached packages:
- [1] e1071_1.7-3       tictoc_1.0        caret_6.0-85      ggplot2_3.2.1     mice_3.7.0       
- [6] lattice_0.20-38   VIM_5.1.0         data.table_1.12.8 colorspace_1.4-1  dplyr_0.8.4      
+ [1] e1071_1.7-3       tictoc_1.0        caret_6.0-85      ggplot2_3.2.1    
+ [5] mice_3.7.0        lattice_0.20-38   VIM_5.1.0         data.table_1.12.8
+ [9] colorspace_1.4-1  dplyr_0.8.4      
 
 loaded via a namespace (and not attached):
  [1] tidyr_1.0.2          splines_3.6.2        foreach_1.4.7        carData_3.0-3       
