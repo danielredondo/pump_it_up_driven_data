@@ -2,6 +2,12 @@
 
 Código en R de mi participación en la competición de Driven Data "Pump it Up: Data Mining the Water Table", para la asignatura de Minería de Datos: Preprocesamiento y Clasificación, usando sólo SVM (Support Vector Machines).
 
+La puntuación final obtenida es: 0.7969.
+
+![](score_final.png)
+
+El código es reproducible y se ha realizado con esta sessionInfo:
+
 ```
 > sessionInfo()
 R version 3.6.2 (2019-12-12)
